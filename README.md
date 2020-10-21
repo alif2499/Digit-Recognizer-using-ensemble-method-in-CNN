@@ -8,3 +8,6 @@ In this version of my notebook, I have used the ensemble method using Sequential
 - The data preparation
 - The CNN modeling and evaluation
 - The results prediction and submission
+
+
+*** if the notebook causes any problem while loading, check out this link [Digit Recognizer](https://www.kaggle.com/alifrahman/digit-recognizer-for-beginners-0-9966)
