@@ -3,7 +3,7 @@ In this notebook, I have used the ensemble method using Sequential Convolutional
 
 ![MNIST data sample](download.png)
 
-## This Notebook follows three main parts:
+## This Notebook has three main parts:
 
 - The data preparation
 - The CNN modeling and evaluation
