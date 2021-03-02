@@ -5,9 +5,9 @@ In this notebook, I have used the ensemble method using Sequential Convolutional
 
 ## This Notebook has three main parts:
 
-- The data preparation
-- The CNN modeling and evaluation
-- The results prediction and submission
+- The data preparation.
+- The CNN modeling and evaluation.
+- The results prediction and submission.
 
 
 *if the notebook causes any problem while loading, check out this link [Digit Recognizer](https://www.kaggle.com/alifrahman/digit-recognizer-for-beginners-0-9966)*
